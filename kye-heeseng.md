@@ -14,7 +14,7 @@ In *Philadelphia* (1993), directed by Jonathan Demme, music plays a powerful and
 
 “La mamma morta” from *Andrea Chénier* traverses the boundaries between life and death, love and despair. In the film, Andrew transforms the aria into an act of self-expression—reclaiming a voice silenced by illness and social stigma. The operatic voice becomes his own, turning music into both a language of suffering and a gesture of defiance. In that convergence of vulnerability and transcendence, the listener perceives not merely the tragedy of disease but the enduring dignity of the human spirit.
 
-<img src="./kye-heeseng.png" alt="Abstract image of AIDS" style="width:25%;" />
+<img src="./kye-heeseng.png" alt="Abstract image of AIDS" style="width:33%;" />
 
 # 필라델피아 (*Philadelphia*)
 
