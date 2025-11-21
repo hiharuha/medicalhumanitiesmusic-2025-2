@@ -9,7 +9,7 @@ ICD: LD27.1
 # Midnight Sun
 
 Scott Speer's film "Midnight Sun" tells the story of Katie, who lives avoiding the sun due to the rare disease Xeroderma Pigmentosum (XP). The film features several scenes where Katie busks, performing songs she wrote herself. In these moments, we see Katie, who can only go out at night, experiencing a brief sense of freedom.
-The lyrics from the song "Where I Stand" in the movie:
+The lyrics from the song "[Where I Stand]"(https://youtu.be/C0OaHg-xxyw?si=qfzF0RkVBCcB-O-y) in the movie:
 'Cause I have seen a thousand things
 A thousand minds and what they bring
 To this world and to this home
@@ -21,7 +21,7 @@ In another film that deals with a rare disease, [The Theory of Everything](kim-y
 
 # 미드나잇 선
 
-스콧 스피어 감독의 미드나잇 선은 색소성건피증이라는 희귀병으로 태양을 피하며 살아가는 케이티에 대한 내용을 담고 있다. 영화에서는 케이티가 직접 쓴 곡들로 버스킹을 하는 장면들이 여러 번 등장하는데, 이 장면에서는 저녁에만 외출이 가능한 케이티가 잠시나마 자유로움을 느끼는 모습을 볼 수 있다. 이 영화 속 노래 Where I stand의 가사 중 
+스콧 스피어 감독의 미드나잇 선은 색소성건피증이라는 희귀병으로 태양을 피하며 살아가는 케이티에 대한 내용을 담고 있다. 영화에서는 케이티가 직접 쓴 곡들로 버스킹을 하는 장면들이 여러 번 등장하는데, 이 장면에서는 저녁에만 외출이 가능한 케이티가 잠시나마 자유로움을 느끼는 모습을 볼 수 있다. 이 영화 속 노래 [Where I stand](https://youtu.be/C0OaHg-xxyw?si=qfzF0RkVBCcB-O-y)의 가사 중 
 'Cause I have seen a thousand things
 A thousand minds and what they bring
 To this world and to this home
