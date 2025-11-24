@@ -2,8 +2,11 @@
 Title: The Kng's speech
 Year: 2010
 Genre: Film
+Creator:
 Disease: Stuttering
 ICD: F98.5
+Music:
+Composer:
 ---
 
 # The King's Speech
