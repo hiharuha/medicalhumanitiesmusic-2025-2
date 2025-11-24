@@ -28,4 +28,4 @@ Additionally, another film that deals with PTSD, similar to The Pianist, is Leav
 
 라흐마니노프 음악의 무거운 저음·불안한 화성 → 급격한 고조 → 안정된 흐름이라는 구조는 The Pianist 속 슈필만의 심리와 자연스럽게 맞물립니다. 초반의 불안정한 선율은 그의 공포와 PTSD의 혼란을 반영하고, 점차 고조되는 다이내믹은 생존을 위한 극도의 긴장을 드러냅니다. 마지막의 안정된 화성은 피아노 연주를 통해 인간적 존엄을 회복하는 순간과 대응하며, 그의 감정 회복 과정을 음악적으로 보여줍니다.
 
-추가적으로 피아니스와 같이 PTSD를 다른 영화의 예로는 Leave No Trace가 있습니다.
+추가적으로 피아니스와 같이 PTSD를 다룬 영화의 예로는 Leave No Trace가 있습니다.
