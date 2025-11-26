@@ -2,8 +2,11 @@
 Title: Symphony No. 9 in D minor, Op. 125
 Year: 1822 to 1824
 Genre: Music
-Disease: hearing impairment
+Disease: Hearing impairment
 ICD: H91.90
+Composer: Ludwing van Beethoven
+Type: Symphony
+Creator: Ludwing van Beethoven
 ---
 
 # Music
