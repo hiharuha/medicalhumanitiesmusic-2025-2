@@ -1,6 +1,6 @@
 ---
 Title: La Traviata
-Dates: October 10, 1813 - January 27, 1901 (Italy)
+Year: October 10, 1813 - January 27, 1901 (Italy)
 Genre: Opera
 Disease: Tuberculosis
 ICD: 1B10
