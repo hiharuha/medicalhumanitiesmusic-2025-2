@@ -4,6 +4,7 @@ Year: 1910-1911
 Genre: Classical Music
 Disease: Laryngeal cancer
 ICD: 2C23
+Composer: Jean Sibelius
 ---
 
 # Symphony No.4 in a minor, Op.63
